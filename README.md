@@ -21,7 +21,7 @@ This project implements a Python-based API server that proxies data from [dummyj
 ├── server/
 │   ├── app.py
 │   ├── Dockerfile
-│   └── requirements.txt
+│   └── dummy.json
 └── terraform/
     ├── main.tf
     ├── variables.tf
